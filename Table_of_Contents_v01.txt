@@ -1,0 +1,90 @@
+
+
+Principles and Techniques of Data Science
+
+Frontmatter
+
+    To the Reader
+    Prerequisites
+    Notation
+
+The Data Science Lifecycle
+
+    1. The Data Science Lifecycle
+    2. Generalizing from Data
+    3. Modeling and Estimation
+    4. [In progress] Case Study
+
+Rectangular Data
+
+    5. Relational Databases and SQL
+    6. Data Tables in Python
+
+Understanding The Data
+
+    7. Data Representation
+    8. [In Progress] Data Quality
+    9. [In Progress] Exploratory Data Analysis
+    10. Data Visualization
+    11. [In progress] Case Study: Berkeley Policing
+
+Other Data Sources
+
+    12. Working with Text
+    13. Web Technologies
+
+Linear Modeling
+
+    14. Linear Models
+    15. Probability and Generalization
+    16. Gradient Descent and Numerical Optimization
+    17. [In progress] Case Study: Donkey Dimensions
+
+Multiple Linear Modeling
+
+    18. [In progress] Multiple Linear Regression
+    19. Feature Engineering
+    20. The Bias-Variance Tradeoff
+    21. Regularization
+    22. [In progress] Case Study: Multiple Linear Models
+
+Classification
+
+    23. Classification
+
+Replicability
+
+    24. [In progress] Replicable Research
+
+Extra Topics
+
+    25. Dimensionality Reduction and PCA
+    26. [In progress] Decision Trees and Random Forests
+    27. [In progress] Clustering
+
+Appendices
+
+    Probability Review
+    Vector Space Review
+    Statistical Inference Review
+    Reference Tables
+    Contributors
+
+Powered by Jupyter Book
+Principles and Techniques of Data Science¶
+
+By Sam Lau, Joey Gonzalez, and Deb Nolan.
+
+This is the textbook for Data 100, the Principles and Techniques of Data Science course at UC Berkeley.
+
+Data 100 is the upper-division, semester-long data science course that follows Data 8, the Foundations of Data Science.
+
+The contents of this book are licensed for free consumption under the following license: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+Note: The book is undergoing major updates to more closely follow current iterations of Data 100. Chapters have moved, and new chapters will be added. Content under construction is marked as [In progress].
+To the Reader
+
+By Sam Lau, Joey Gonzalez, and Deb Nolan
+© Copyright 2021.
+
+License: CC BY-NC-ND 4.0
