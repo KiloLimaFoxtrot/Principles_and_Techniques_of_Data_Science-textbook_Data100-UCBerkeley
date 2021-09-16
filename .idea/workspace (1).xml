@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ef45b65-1281-45dc-86aa-104dfacfbb23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/babynames.zip" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/babynames.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/lifecycle_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/lifecycle_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/lifecycle_students_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/lifecycle_students_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/lifecycle_students_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/lifecycle_students_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/lifecycle_students_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/lifecycle_students_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/01/roster.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/01/roster.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/2.2_sampling_frames.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/2.2_sampling_frames.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/2.2_sampling_frames.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/2.2_sampling_frames.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/Deweytruman12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/Deweytruman12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data_figures/administrative_data.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data_figures/administrative_data.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data_figures/census.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data_figures/census.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data_figures/ideal_random_sample.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data_figures/ideal_random_sample.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data_figures/sampling_frames.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data_figures/sampling_frames.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_data_figures/typical_sample.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_data_figures/typical_sample.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_dewey_truman.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_dewey_truman.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_sampling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_sampling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/design_srs_vs_big_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/design_srs_vs_big_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/02/srs_big_simulations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/02/srs_big_simulations.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/03/modeling_abs_huber.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/03/modeling_abs_huber.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/03/modeling_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/03/modeling_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/03/modeling_loss_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/03/modeling_loss_functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/03/modeling_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/03/modeling_simple.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/04/cycle_case_study_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/04/cycle_case_study_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_basics.db" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_basics.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_joins.db" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_joins.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_joins.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_joins.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/05/sql_rdbms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/05/sql_rdbms.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/babynames.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/babynames.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/others/babies.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/others/babies.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/others/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/others/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_apply_strings_plotting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_apply_strings_plotting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_19_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_19_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_22_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_22_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_25_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_apply_strings_plotting_files/pandas_apply_strings_plotting_25_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_grouping_pivoting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_grouping_pivoting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_indexes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_indexes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/06/pandas_joins.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/06/pandas_joins.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/data/co2_mm_mlo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/data/co2_mm_mlo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/mlo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/mlo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/repr_data_types.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/repr_data_types.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/repr_granularity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/repr_granularity.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/repr_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/repr_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/repr_structure.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/repr_structure.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/repr_structure_joins.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/repr_structure_joins.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/07/sigalert.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/07/sigalert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/SFHousing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/SFHousing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/SFRestaurants.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/SFRestaurants.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/babies.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/babies.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/babies.readme" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/babies.readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/babies23.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/babies23.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/data/stops.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/data/stops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/08/quality_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/08/quality_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/data/Berkeley_PD_-_Calls_for_Service.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/data/Berkeley_PD_-_Calls_for_Service.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/data/calls.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/data/calls.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/data/cvdow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/data/cvdow.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/data/stops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/data/stops.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/data/stops.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/data/stops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/09/eda_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/09/eda_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/Berkeley_PD_-_Calls_for_Service.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/Berkeley_PD_-_Calls_for_Service.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/CAITcountryCO2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/CAITcountryCO2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/babies.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/babies.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/babies.readme" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/babies.readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/babies23.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/babies23.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/calls.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/calls.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/cherryBlossomMen.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/cherryBlossomMen.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/cvdow.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/cvdow.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/edInc2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/edInc2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/planets.data" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/planets.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/plannedparenthood.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/plannedparenthood.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/stops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/stops.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/stops.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/stops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/data/voteCA2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/data/voteCA2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_philosophy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_philosophy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_538_after.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_538_after.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_538_before.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_538_before.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_bar_stacked.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_bar_stacked.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_cherry_run.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_cherry_run.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_earnings.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_earnings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_emissions.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_emissions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_gdp.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_gdp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_gdp_v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_gdp_v2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_google.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_planned_parenthood.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_planned_parenthood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_voter_ca.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_voter_ca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_principles_img/viz_zoom.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_principles_img/viz_zoom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_qualitative.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_qualitative.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/10/viz_quantitative.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/10/viz_quantitative.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/11/police_calls.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/11/police_calls.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/11/police_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/11/police_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/11/police_stops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/11/police_stops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/12/text_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/12/text_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/12/text_re.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/12/text_re.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/12/text_regex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/12/text_regex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/12/text_strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/12/text_strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/13/web_html.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/13/web_html.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/13/web_http.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/13/web_http.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/13/web_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/13/web_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/13/web_rest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/13/web_rest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_fitting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_fitting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_inference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_inference.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/1dprojection.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/1dprojection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/dependent_variablesz.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/dependent_variablesz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/proj1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/proj1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/proj2.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/proj2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/proj3.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/proj3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_projection_img/proj4.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_projection_img/proj4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/14/linear_tips.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/14/linear_tips.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/15/prob_and_gen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/15/prob_and_gen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/15/prob_exp_var.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/15/prob_exp_var.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/15/prob_random_vars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/15/prob_random_vars.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/15/prob_risk.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/15/prob_risk.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_convexity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_convexity.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_descent.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_descent_define.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_descent_define.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_lin_reg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_lin_reg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_stochastic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_stochastic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_stochastic_gd.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_stochastic_gd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/16/gradient_stochastic_sgd.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/16/gradient_stochastic_sgd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/17/donkey_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/17/donkey_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/17/donkey_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/17/donkey_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/17/donkeys.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/17/donkeys.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/18/mpg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/18/mpg.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/18/mult_inference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/18/mult_inference.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/18/mult_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/18/mult_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/18/mult_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/18/mult_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/feature_engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/feature_one_hot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/feature_one_hot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/feature_polynomial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/feature_polynomial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/icecream.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/icecream.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/icecream.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/icecream.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/icecream_orig.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/icecream_orig.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/19/walmart.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/19/walmart.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_cv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_cv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_cv_5_fold_cv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_cv_5_fold_cv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_cv_train_test_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_cv_train_test_error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_modeling_bias_var_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_modeling_bias_var_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_modeling_bias_var_shift.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_modeling_bias_var_shift.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/bias_risk.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/bias_risk.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/20/icecream.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/20/icecream.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/reg_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/reg_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/reg_intuition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/reg_intuition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/reg_lasso.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/reg_lasso.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/reg_ridge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/reg_ridge.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/water.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/water.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/21/water_large.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/21/water_large.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/22/mult_case_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/22/mult_case_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/baby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/baby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_cost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_cost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_cost_justification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_cost_justification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_log_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_log_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_log_reg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_log_reg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_multiclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_multiclass.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_multiclass_petal_sepal.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_multiclass_petal_sepal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_prob.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_prob.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_sensitivity_specificity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_sensitivity_specificity.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/classification_sgd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/classification_sgd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/emails_sgd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/emails_sgd.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/lebron.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/lebron.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/23/selected_emails.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/23/selected_emails.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/24/repl_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/24/repl_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/24/repl_phacking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/24/repl_phacking.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/child_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/child_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/child_mortality_0_5_year_olds_dying_per_1000_born.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/child_mortality_0_5_year_olds_dying_per_1000_born.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/children_per_woman_total_fertility.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/children_per_woman_total_fertility.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/ds100_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/ds100_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/fat.dat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/fat.dat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/hongkong_height_weight.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/hongkong_height_weight.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/legislators-current.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/legislators-current.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/legislators.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/legislators.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/pca_dims.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/pca_dims.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/pca_in_practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/pca_in_practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/pca_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/pca_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/pca_svd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/pca_svd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/pca_svd_one_vs_two.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/pca_svd_one_vs_two.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/rectangle_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/rectangle_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/vote_pivot.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/vote_pivot.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/25/votes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/25/votes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/26/dtrees_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/26/dtrees_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/27/clustering_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/27/clustering_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/ChptNotes/chptWorkNotes_01" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/ChptNotes/chptWorkNotes_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a01/prob_review.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a01/prob_review.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/adding.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/adding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/angle.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/angle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/distance.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/distance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/length.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/length.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/notation.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/notation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/notation_arithmetic.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/notation_arithmetic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/proj2d.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/proj2d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/projection.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/projection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/scaling.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/scaling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/vector_space_review.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/vector_space_review.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a02/vectors.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a02/vectors.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/StudentRatingsData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/StudentRatingsData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/baby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/baby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/duncan.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/duncan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/hyp_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/hyp_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/hyp_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/hyp_introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/hyp_introduction_part2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/hyp_introduction_part2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/ilec.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/ilec.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/raw_anonymized_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/raw_anonymized_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a03/student_setup.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a03/student_setup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a04/ref_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a04/ref_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a04/ref_matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a04/ref_matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a04/ref_pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a04/ref_pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a04/ref_seaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a04/ref_seaborn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a04/ref_sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a04/ref_sklearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/a05/contributors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/a05/contributors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/classification_regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/classification_regularization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_calls.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_calls.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_faithfulness.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_faithfulness.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_faithfulness_files/cleaning_faithfulness_3_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_faithfulness_files/cleaning_faithfulness_3_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_granularity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_granularity.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_scope.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_scope.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_stops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_stops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_structure.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_structure.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_structure_joins.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_structure_joins.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/cleaning_temp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/cleaning_temp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/StudentRatingsData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/StudentRatingsData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/baby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/baby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/duncan.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/duncan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/hyp_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/hyp_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/hyp_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/hyp_introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/hyp_introduction_part2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/hyp_introduction_part2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/hyp_studentized.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/hyp_studentized.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/hyp_studentized_coverage.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/hyp_studentized_coverage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/ilec.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/ilec.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/raw_anonymized_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/raw_anonymized_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ch_work_01/old_pages/inference/student_setup.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/ch_work/old_pages/inference/student_setup.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1sjkLsJDDqzjIfo2msPtCf9zivi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210522_0014" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/TCSS_551_Spring21" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/TCSS_551_Spring21" />
+      <recent name="$PROJECT_DIR$/content/ch_work_01/01" />
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ef45b65-1281-45dc-86aa-104dfacfbb23" name="Default Changelist" comment="" />
+      <created>1621393338669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621393338669</updated>
+      <workItem from="1621393345385" duration="357000" />
+      <workItem from="1621393722502" duration="632000" />
+      <workItem from="1621394372978" duration="769000" />
+      <workItem from="1621395163662" duration="451000" />
+      <workItem from="1621395660784" duration="1107000" />
+      <workItem from="1621397160225" duration="1236000" />
+      <workItem from="1621399904726" duration="159000" />
+      <workItem from="1621400083976" duration="98000" />
+      <workItem from="1621400960093" duration="1583000" />
+      <workItem from="1621403178828" duration="2943000" />
+      <workItem from="1621571656050" duration="2582000" />
+      <workItem from="1621575938818" duration="1273000" />
+      <workItem from="1621580066032" duration="2272000" />
+      <workItem from="1621586922053" duration="6975000" />
+      <workItem from="1621627238736" duration="2024000" />
+      <workItem from="1621640647478" duration="2638000" />
+      <workItem from="1621736109457" duration="511000" />
+      <workItem from="1621746564884" duration="940000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project update">
+      <created>1621640505734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621640505734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project update" />
+  </component>
+</project>
